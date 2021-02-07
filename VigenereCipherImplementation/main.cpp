@@ -80,7 +80,7 @@ void showMenu()
    cout << "*************MENU*************" << endl;
    cout << "***|1|**********Set Key First !*************" << endl;
    cout << "***|2|**********Set Original Message to Cipher*************" << endl;
-   cout << "***|3|**********Decrypt Message to see the Orginal Message*************" << endl;
+   cout << "***|3|**********Decrypt Message to see the Original Message*************" << endl;
    cout << "***|4|**********Exit the Program*************" << endl;
 
 }
